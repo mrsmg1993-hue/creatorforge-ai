@@ -1,0 +1,9 @@
+{
+  "name": "creatorforge-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CreatorForge AI - gerador de conteúdo para TikTok, Shorts e Reels",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
