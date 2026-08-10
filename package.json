@@ -5,5 +5,8 @@
   "description": "CreatorForge AI - gerador de conteúdo para TikTok, Shorts e Reels",
   "scripts": {
     "dev": "vercel dev"
+  },
+  "dependencies": {
+    "stripe": "^17.0.0"
   }
 }
